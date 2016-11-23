@@ -5,6 +5,7 @@
 void main()
 {
 printf("Prabha - Black Prince");
+printf("Prabha Genius");
 }
 
 
